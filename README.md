@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashray Parikh</h1>
 <h3 align="center">A passionate Learner & Developer</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashray2603&label=Profile%20views&color=0e75b6&style=flat" alt="aashray2603"/> </p>
 
